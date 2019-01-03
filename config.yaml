@@ -1,0 +1,36 @@
+languageCode: "en-us"
+title: "The Context Podcast"
+
+baseUrl: "http://thecontext.github.com"
+permalinks:
+  post: ":slug"
+
+params:
+  description: "The Context podcast description"
+
+menu:
+  left:
+    - name: "Episodes"
+      url: "/"
+  right:
+    - name: "Pocket Casts"
+      url: "https://pca.st/hYck"
+      weight: 3
+    - name: "iTunes"
+      url: "https://itunes.apple.com/us/podcast/the-context-androiddev/id1081726814"
+      weight: 2
+    - name: "RSS"
+      url: "/index.xml"
+      weight: 1
+
+theme: "context"
+
+googleAnalytics: "..."
+
+disableHugoGeneratorInject: true
+enableEmoji: true
+
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section

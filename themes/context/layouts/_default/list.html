@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+{{if not .IsHome }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+<img src="https://thecontext.github.io/assets/album_art-3a9216ac652c6447d2bfa5dc94ee083150cc03d157a3e8a9b902f7815d034231.png" align="middle" height="200px" width="200px" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+
+{{ .Content }}
+
+{{ range (where .Data.Pages "Section" "!=" "") }}
+<p>
+  <h3><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
+  {{ .Description | markdownify }}
+</p>
+{{ end }}
+
+{{ partial "footer.html" . }}
