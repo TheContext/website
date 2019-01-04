@@ -5,7 +5,7 @@ date: "2018-09-27T09:30:00"
 slug: "24-multiplatform"
 ---
 
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.24.mp3" type="audio/mpeg">
 </audio>
 
