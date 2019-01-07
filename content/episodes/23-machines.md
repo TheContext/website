@@ -1,11 +1,10 @@
 ---
 title: "Episode 23: Rise of the Machines (droidcon Berlin 2018)"
 description: "We&#39;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&#39;ve recorded panel discussions for us and allowed us to publish them with our commentary."
-date: "2018-09-19T09:30:00"
+date: "2018-09-19T09:30"
 slug: "23-machines"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.23.mp3" type="audio/mpeg">
 </audio>
 

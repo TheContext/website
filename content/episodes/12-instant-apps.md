@@ -1,11 +1,10 @@
 ---
 title: "Episode 12: Instant Apps with Lukas Olsen and Christian Bahl"
 description: "Hannes chatted with his coworkes Lukas and Christian about Instant Apps."
-date: "2017-05-24T09:30:00"
+date: "2017-05-24T09:30"
 slug: "12-instant-apps"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3" type="audio/mpeg">
 </audio>
 

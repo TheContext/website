@@ -1,11 +1,10 @@
 ---
 title: "Episode 16: Tools"
 description: "In this episode Artem, Artur and Hannes discuss the tools they use for development."
-date: "2018-03-07T09:30:00"
+date: "2018-03-07T09:30"
 slug: "16-tools"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.16.mp3" type="audio/mpeg">
 </audio>
 

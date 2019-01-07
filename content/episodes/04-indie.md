@@ -4,8 +4,7 @@ description: "In this episode we have talked about Indie Development."
 date: "2016-05-01T05:44:07"
 slug: "04-indie"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" type="audio/mpeg">
 </audio>
 

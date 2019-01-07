@@ -1,11 +1,10 @@
 ---
 title: "Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)"
 description: "In this episode we chatted with core maintainer David Karnok about the present and the future of RxJava."
-date: "2017-10-05T09:30:00"
+date: "2017-10-05T09:30"
 slug: "14-rxjava"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3" type="audio/mpeg">
 </audio>
 

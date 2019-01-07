@@ -1,11 +1,10 @@
 ---
 title: "Episode 21: Rx Must Die (droidcon Berlin 2018)"
 description: "We&#39;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&#39;ve recorded panel discussions for us and allowed us to publish them with our commentary."
-date: "2018-08-01T09:36:00"
+date: "2018-08-01T09:36"
 slug: "21-droidcon-rx"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3" type="audio/mpeg">
 </audio>
 

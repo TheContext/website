@@ -4,8 +4,7 @@ description: "We&#39;ve talked to Dmitry Jemerov from Kotlin team at JetBrains a
 date: "2017-05-08T15:30:00"
 slug: "10-kotlin"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3" type="audio/mpeg">
 </audio>
 

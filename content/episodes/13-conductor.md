@@ -1,11 +1,10 @@
 ---
 title: "Episode 13: Conductor with Eric Kuck"
 description: "In this episode we talked about Conductor with creator Eric Kuck."
-date: "2017-08-04T09:30:00"
+date: "2017-08-04T09:30"
 slug: "13-conductor"
 ---
-
-<audio controls>
+<audio controls preload="metadata">
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3" type="audio/mpeg">
 </audio>
 
