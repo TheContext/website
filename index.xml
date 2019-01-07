@@ -6,10 +6,189 @@
     <description>Recent content on The Context Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 May 2017 15:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 09:30:00 +0000</lastBuildDate>
     
 	<atom:link href="http://thecontext.github.com/website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich</title>
+      <link>http://thecontext.github.com/website/episodes/24-multiplatform/</link>
+      <pubDate>Thu, 27 Sep 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/24-multiplatform/</guid>
+      <description>Jesse and Egor shared their experience of migrating Okio to Kotlin and which strategies they have applied to make it multiplatform ready.
+Announcement: Please participate in this survey to give us feedback how we can make this podcast better.
+Links:
+ Okio on Github Announcing Okio 2: Our fast + simple I/O library, Okio, has a new release that supports Kotlin JApicmp: binary compatibility reporting The Context Podcast Survey: Help us make the show better  Guests  Egor Andreevich: Twitter, GitHub, blog Jesse Wilson: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 23: Rise of the Machines (droidcon Berlin 2018)</title>
+      <link>http://thecontext.github.com/website/episodes/23-machines/</link>
+      <pubDate>Wed, 19 Sep 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/23-machines/</guid>
+      <description>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
+Guests  Dr. Roman Belter Hoi Lam: Twitter Jürgen Fey: Twitter Meghan Kane: Twitter Silvia Cambie: Twitter  Hosts  Kevin McDonagh: Twitter  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 22: Women in Tech (droidcon Berlin 2018)</title>
+      <link>http://thecontext.github.com/website/episodes/22-droidcon-women/</link>
+      <pubDate>Fri, 17 Aug 2018 09:36:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/22-droidcon-women/</guid>
+      <description>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
+Guests  Anita Singh: Twitter Annyce Davis: Twitter Kevin McDonagh: Twitter Lara Martín: Twitter Vivien Dollinger: LinkedIn  Hosts  Daniela Gausmann: LinkedIn  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 21: Rx Must Die (droidcon Berlin 2018)</title>
+      <link>http://thecontext.github.com/website/episodes/21-droidcon-rx/</link>
+      <pubDate>Wed, 01 Aug 2018 09:36:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/21-droidcon-rx/</guid>
+      <description>This particular episode is a panel discussion with a very controversial title \&amp;ldquo;Rx Must Die\&amp;ldquo;. As you might know, all hosts of The Context podcast have very warm feelings about Rx and it was not an easy job for us to comment, Hannes and Artur were strong enough but Artem had to bail out (oof). We hope you enjoy this episode and find things to think about, remember if you want to discuss them — we have discussions on GitHub (link above)!</description>
+    </item>
+    
+    <item>
+      <title>Episode 20, Part 2: public final Agile</title>
+      <link>http://thecontext.github.com/website/episodes/20.2-agile/</link>
+      <pubDate>Sun, 01 Jul 2018 09:36:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/20.2-agile/</guid>
+      <description>Links:
+ Turn the Ship Around! Toyota Production System Jeff Sutherland David Anderson Kaizen  Guests  Alexey Alexeev: LinkedIn  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 20, Part 1: public final Agile</title>
+      <link>http://thecontext.github.com/website/episodes/20.1-agile/</link>
+      <pubDate>Sun, 01 Jul 2018 09:35:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/20.1-agile/</guid>
+      <description>Links:
+ Turn the Ship Around! Toyota Production System Jeff Sutherland David Anderson Kaizen  Guests  Alexey Alexeev: LinkedIn  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 19, Part 2: Model-View-Intent with Benoît Quenaudon from Square</title>
+      <link>http://thecontext.github.com/website/episodes/19.2-mvi/</link>
+      <pubDate>Sun, 10 Jun 2018 09:35:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/19.2-mvi/</guid>
+      <description>Links:
+ Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&amp;rsquo;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&amp;rsquo;re doing it wrong if you have a subscribe in your presenter. Ideally, the presenter should be an ObservableTransformer.&amp;rdquo; Unidirectional User Interface Architectures  Guests  Benoît Quenaudon: Twitter, GitHub, website  Hosts  Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 19, Part 1: Model-View-Intent with Benoît Quenaudon from Square</title>
+      <link>http://thecontext.github.com/website/episodes/19.1-mvi/</link>
+      <pubDate>Sun, 10 Jun 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/19.1-mvi/</guid>
+      <description>Links:
+ Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&amp;rsquo;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&amp;rsquo;re doing it wrong if you have a subscribe in your presenter. Ideally, the presenter should be an ObservableTransformer.&amp;rdquo; Unidirectional User Interface Architectures  Guests  Benoît Quenaudon: Twitter, GitHub, website  Hosts  Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 18, Part 2: Android Everywhere</title>
+      <link>http://thecontext.github.com/website/episodes/18.2-everywhere/</link>
+      <pubDate>Mon, 07 May 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/18.2-everywhere/</guid>
+      <description>Links:
+ The Context Episode 5: Android TV with Joe Birch Android TV &amp;amp; Chill: A concept for what it would be like ordering fast-food on Android TV by Joe Birch. OpenAuto: Turns a Raspberry Pi into an Android Auto device. Artem&amp;rsquo;s car system running Android  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 18, Part 1: Android Everywhere</title>
+      <link>http://thecontext.github.com/website/episodes/18.1-everywhere/</link>
+      <pubDate>Sat, 05 May 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/18.1-everywhere/</guid>
+      <description>Links:
+ Fireside Chat with Matias Duarte, VP of Design, Android: Interesting interview with Matias Duarte about form factors like mobile, wearables, TV, Chromebooks and watch.  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 17: Switching Gears to C# and .NET</title>
+      <link>http://thecontext.github.com/website/episodes/17-dot-net/</link>
+      <pubDate>Sun, 01 Apr 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/17-dot-net/</guid>
+      <description>The reason is simple — we are changing our jobs as Android developers to be real enterprise professionals. Prepare for next episodes about macOS AppKit, Linux kernel, Go microservices and Plan 9 vs. Inferno. And maybe gardening at some point. Also — April Fools!
+Seriously though — the episode is a great introduction into C# world. Just for erudition sake, you know.
+Links:
+C#
+ Anders Hejlsberg — Turbo Pascal, C# and TypeScript designer Versions history Nullable reference types preview struct async and await yield F# Q#  .</description>
+    </item>
+    
+    <item>
+      <title>Episode 16: Tools</title>
+      <link>http://thecontext.github.com/website/episodes/16-tools/</link>
+      <pubDate>Wed, 07 Mar 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/16-tools/</guid>
+      <description>Tools:
+ Mainframer Composer Swarmer zsh cloc ncdu tig ag  CI:
+ Jenkins CircleCi Drone  Libraries:
+ Spek RxReplayingShare Moshi  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 15: 2017 in Retrospective</title>
+      <link>http://thecontext.github.com/website/episodes/15-2017/</link>
+      <pubDate>Sat, 20 Jan 2018 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/15-2017/</guid>
+      <description>In this episode Artem and Hannes chatted with David Karnok about present and future of RxJava. We discussed:
+ RxJava 3 Preview Kaushik Gopal&amp;rsquo;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&amp;rsquo;s Reply to Kaushik Gopal&amp;rsquo;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;rdquo; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs. Kotlin Coroutines, a quick look by David Karnok  Rewriting RxJava with Kotlin Coroutines?</description>
+    </item>
+    
+    <item>
+      <title>Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)</title>
+      <link>http://thecontext.github.com/website/episodes/14-rxjava/</link>
+      <pubDate>Thu, 05 Oct 2017 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/14-rxjava/</guid>
+      <description>In this episode Artem and Hannes chatted with David Karnok about present and future of RxJava. We discussed:
+ RxJava 3 Preview Kaushik Gopal&amp;rsquo;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&amp;rsquo;s Reply to Kaushik Gopal&amp;rsquo;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;rdquo; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs. Kotlin Coroutines, a quick look by David Karnok  Rewriting RxJava with Kotlin Coroutines?</description>
+    </item>
+    
+    <item>
+      <title>Episode 13: Conductor with Eric Kuck</title>
+      <link>http://thecontext.github.com/website/episodes/13-conductor/</link>
+      <pubDate>Fri, 04 Aug 2017 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/13-conductor/</guid>
+      <description>Announcement: We have a new Co-Host for our podcast: Welcome Artur Dryomov!
+We think that we need at least two hosts on each episode to produce a high-quality content. Unfortunately, podcast production is time-consuming but now there are three hosts, so we can ensure that at least two of us have time to produce a new episode regularly.
+In this episode Artur and Hannes chatted with Eric Kuck about Conductor, a framework created by Eric as alternative to Fragments.</description>
+    </item>
+    
+    <item>
+      <title>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</title>
+      <link>http://thecontext.github.com/website/episodes/12-instant-apps/</link>
+      <pubDate>Wed, 24 May 2017 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/12-instant-apps/</guid>
+      <description>We apologize for the bad sound quality and low sound volume.
+Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn&amp;rsquo;t able to join us for this episode. We have covered:
+ How Instant Apps work Limitations Accelerated Mobile Pages (AMP) Gradle Plugins: com.android.instantapp and com.android.feature Sharing code between regular App and Instant App User Experience with Instant Apps Instant App Early Access Preview Program Our personal Google I/O 2017 highlights:  Life is Great and Everything Will Be Ok, Kotlin is Here Architecture Components Speeding Up Your Android Gradle Builds Introduction to Android Instant Apps   Links:</description>
+    </item>
+    
+    <item>
+      <title>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</title>
+      <link>http://thecontext.github.com/website/episodes/11-rxjava-2/</link>
+      <pubDate>Mon, 15 May 2017 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/11-rxjava-2/</guid>
+      <description>We have covered:
+ Migration strategy at Juno What&amp;rsquo;s different in RxJava 2.0? Null values in RxJava 2 Flowable or Observable? Other Rx Types: Single, Maybe and Completable RxJava 2 interop library RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in jvm unit tests RxJava 3  Links:
+ Juno&amp;rsquo;s Android Rider Team RxJava 2 Migration Specification RxKotlin RxJava 2 interop library What&amp;rsquo;s different in RxJava 2.0 RxJava 2: Which type to use RxJava 2: Uncaught errors fail silently in junit tests RxJava 2: Discussion about null values RxJava 2 Kotlin SAM issue combineLatest()/etc Reactive Streams specification: null value Why RxJava 3: Split the library into two or adding types for symmetry RxJava 3 Preview  Guests  Artur Dryomov: Twitter, GitHub, blog  Hosts  Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
     
     <item>
       <title>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</title>
@@ -20,6 +199,63 @@
       <description>We know about sound volume level issue #67 and tried our best to maximize it in this episode, but Artem used his crappy headphones mic instead of professional one and we couldn&amp;rsquo;t achieve what we wanted, sorry about that, we&amp;rsquo;ll try our best in next episode.
 We&amp;rsquo;ve talked to Dmitry Jemerov aka @yole from Kotlin team at JetBrains about some language design decisions made in Kotlin:
  Package visibility in Kotlin Java static equivalent in Kotlin Companion objects Static extension functions Classes are final by default but fields are public Unchecked exceptions Generics Base types: Any, Unit, Nothing Traits Delegates Data classes Upcoming features  Links:</description>
+    </item>
+    
+    <item>
+      <title>Episode 9, Part 2: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
+      <link>http://thecontext.github.com/website/episodes/09.2-kotlin-gradle/</link>
+      <pubDate>Fri, 14 Apr 2017 08:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/09.2-kotlin-gradle/</guid>
+      <description>Important note for Pocket Casts app users: Thanks to the great support of Pocket Casts team we were able to fix the &amp;ldquo;download episodes issue&amp;rdquo; (see show nodes of episode 9, part 1).
+We have continued our discussion with Alexey Tsvetkov. In the second part we have talked about build systems for android development.
+We have talked about:
+ Gradle Buck Bazel  Links:
+ OkBuck Fragmented Podcast, Episode 68: Talking Buck with Uber engineer Gautam Korlam  Guests  Alexey Tsvetkov: Twitter  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
+      <link>http://thecontext.github.com/website/episodes/09.1-kotlin-gradle/</link>
+      <pubDate>Tue, 11 Apr 2017 08:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/09.1-kotlin-gradle/</guid>
+      <description>Important note for Pocket Casts app users: Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline). It seems that while downloading their android app is using a old http client which doesn&amp;rsquo;t support latest TLS cipher standards we use on server side to host our episodes.
+Nevertheless, streaming our episodes (instead of downloading) works in Pocket Casts android app.
+See this tutorial: Pocket Casts: Streaming</description>
+    </item>
+    
+    <item>
+      <title>Episode 8: Damn Functional Programming with Paco Estevez</title>
+      <link>http://thecontext.github.com/website/episodes/08-fp/</link>
+      <pubDate>Thu, 02 Mar 2017 14:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/08-fp/</guid>
+      <description>In this episode we have talked with Paco Estevez about Functional Programming and how he applies Functional Programming in his android apps. We have covered:
+ Concepts of Functional Programming Monads, Pure Functions, Immutability, Tuples, Union Types Pattern Matching Error Handling Functional Reactive Programming with RxJava Restoring state in Android apps  Links:
+Talks, books and websites about Functional Programming:
+ Clojure for the Brave and True Learn You a Haskell for Great Good F# for fun and profit Talk by Paco about Memory Management in Fully Reactive Apps  Some of Paco&amp;rsquo;s open source libraries:</description>
+    </item>
+    
+    <item>
+      <title>Episode 7: React Native with Felipe Lima from Airbnb</title>
+      <link>http://thecontext.github.com/website/episodes/07-react/</link>
+      <pubDate>Fri, 02 Dec 2016 17:00:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/07-react/</guid>
+      <description>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:
+ Advantages and Disadvantages of React Native React Native build tools, IDE and debugging How to write your own custom component Lifecycle, state restoration and process death in React Native apps Integration and interaction with android system services Sharing code with iOS Usage for React Native in Airbnb&amp;rsquo;s android and iOS app  Links:</description>
+    </item>
+    
+    <item>
+      <title>Episode 6, Part 2: Continuous Integration (CI) &amp;amp; Continuous Delivery (CD)</title>
+      <link>http://thecontext.github.com/website/episodes/06.2-ci/</link>
+      <pubDate>Wed, 31 Aug 2016 07:45:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/06.2-ci/</guid>
+      <description>We have covered:
+ UI Tests Continuous Integration Continuous Delivery Soundcloud&amp;rsquo;s CI &amp;amp; CD Pipeline Testing in general EVERYTHING &amp;amp; LIFE  Links:
+ Slides from Fernando&amp;rsquo;s talk at MobileOptimized&amp;rsquo;2016  Fernando&amp;rsquo;s Clean Architecture sample on github From Prefab House to Lego House - Blog post about depending on a shared library  Guests  Fernando Cejas: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
     
     <item>
@@ -98,242 +334,6 @@ Links:
  MVC MVVM MVVMC MVP Flux Cycle.js (a.k.a. Model-View-Intent)  Open Source projects from Hannes:
  Mosby SQLBrite-DAO FragmentArgs ParcelablePlease  Links:
  AutoValue split into 2 jars issue Dagger 2 document about testing Clean MVVM example Gradle&amp;rsquo;s incremental build issue with annotation processing  Guests  Hannes Dorfmann: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</title>
-      <link>http://thecontext.github.com/website/episodes/11-rxjava-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/11-rxjava-2/</guid>
-      <description>We have covered:
- Migration strategy at Juno What&amp;rsquo;s different in RxJava 2.0? Null values in RxJava 2 Flowable or Observable? Other Rx Types: Single, Maybe and Completable RxJava 2 interop library RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in jvm unit tests RxJava 3  Links:
- Juno&amp;rsquo;s Android Rider Team RxJava 2 Migration Specification RxKotlin RxJava 2 interop library What&amp;rsquo;s different in RxJava 2.0 RxJava 2: Which type to use RxJava 2: Uncaught errors fail silently in junit tests RxJava 2: Discussion about null values RxJava 2 Kotlin SAM issue combineLatest()/etc Reactive Streams specification: null value Why RxJava 3: Split the library into two or adding types for symmetry RxJava 3 Preview  Guests  Artur Dryomov: Twitter, GitHub, blog  Hosts  Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</title>
-      <link>http://thecontext.github.com/website/episodes/12-instant-apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/12-instant-apps/</guid>
-      <description>We apologize for the bad sound quality and low sound volume.
-Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn&amp;rsquo;t able to join us for this episode. We have covered:
- How Instant Apps work Limitations Accelerated Mobile Pages (AMP) Gradle Plugins: com.android.instantapp and com.android.feature Sharing code between regular App and Instant App User Experience with Instant Apps Instant App Early Access Preview Program Our personal Google I/O 2017 highlights:  Life is Great and Everything Will Be Ok, Kotlin is Here Architecture Components Speeding Up Your Android Gradle Builds Introduction to Android Instant Apps   Links:</description>
-    </item>
-    
-    <item>
-      <title>Episode 13: Conductor with Eric Kuck</title>
-      <link>http://thecontext.github.com/website/episodes/13-conductor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/13-conductor/</guid>
-      <description>Announcement: We have a new Co-Host for our podcast: Welcome Artur Dryomov!
-We think that we need at least two hosts on each episode to produce a high-quality content. Unfortunately, podcast production is time-consuming but now there are three hosts, so we can ensure that at least two of us have time to produce a new episode regularly.
-In this episode Artur and Hannes chatted with Eric Kuck about Conductor, a framework created by Eric as alternative to Fragments.</description>
-    </item>
-    
-    <item>
-      <title>Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)</title>
-      <link>http://thecontext.github.com/website/episodes/14-rxjava/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/14-rxjava/</guid>
-      <description>In this episode Artem and Hannes chatted with David Karnok about present and future of RxJava. We discussed:
- RxJava 3 Preview Kaushik Gopal&amp;rsquo;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&amp;rsquo;s Reply to Kaushik Gopal&amp;rsquo;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;rdquo; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs. Kotlin Coroutines, a quick look by David Karnok  Rewriting RxJava with Kotlin Coroutines?</description>
-    </item>
-    
-    <item>
-      <title>Episode 15: 2017 in Retrospective</title>
-      <link>http://thecontext.github.com/website/episodes/15-2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/15-2017/</guid>
-      <description>In this episode Artem and Hannes chatted with David Karnok about present and future of RxJava. We discussed:
- RxJava 3 Preview Kaushik Gopal&amp;rsquo;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&amp;rsquo;s Reply to Kaushik Gopal&amp;rsquo;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;rdquo; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs. Kotlin Coroutines, a quick look by David Karnok  Rewriting RxJava with Kotlin Coroutines?</description>
-    </item>
-    
-    <item>
-      <title>Episode 16: Tools</title>
-      <link>http://thecontext.github.com/website/episodes/16-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/16-tools/</guid>
-      <description>Tools:
- Mainframer Composer Swarmer zsh cloc ncdu tig ag  CI:
- Jenkins CircleCi Drone  Libraries:
- Spek RxReplayingShare Moshi  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 17: Switching Gears to C# and .NET</title>
-      <link>http://thecontext.github.com/website/episodes/17-dot-net/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/17-dot-net/</guid>
-      <description>The reason is simple — we are changing our jobs as Android developers to be real enterprise professionals. Prepare for next episodes about macOS AppKit, Linux kernel, Go microservices and Plan 9 vs. Inferno. And maybe gardening at some point. Also — April Fools!
-Seriously though — the episode is a great introduction into C# world. Just for erudition sake, you know.
-Links:
-C#
- Anders Hejlsberg — Turbo Pascal, C# and TypeScript designer Versions history Nullable reference types preview struct async and await yield F# Q#  .</description>
-    </item>
-    
-    <item>
-      <title>Episode 18, Part 1: Android Everywhere</title>
-      <link>http://thecontext.github.com/website/episodes/18.1-everywhere/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/18.1-everywhere/</guid>
-      <description>Links:
- Fireside Chat with Matias Duarte, VP of Design, Android: Interesting interview with Matias Duarte about form factors like mobile, wearables, TV, Chromebooks and watch.  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 18, Part 2: Android Everywhere</title>
-      <link>http://thecontext.github.com/website/episodes/18.2-everywhere/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/18.2-everywhere/</guid>
-      <description>Links:
- The Context Episode 5: Android TV with Joe Birch Android TV &amp;amp; Chill: A concept for what it would be like ordering fast-food on Android TV by Joe Birch. OpenAuto: Turns a Raspberry Pi into an Android Auto device. Artem&amp;rsquo;s car system running Android  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 19, Part 1: Model-View-Intent with Benoît Quenaudon from Square</title>
-      <link>http://thecontext.github.com/website/episodes/19.1-mvi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/19.1-mvi/</guid>
-      <description>Links:
- Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&amp;rsquo;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&amp;rsquo;re doing it wrong if you have a subscribe in your presenter. Ideally, the presenter should be an ObservableTransformer.&amp;rdquo; Unidirectional User Interface Architectures  Guests  Benoît Quenaudon: Twitter, GitHub, website  Hosts  Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 19, Part 2: Model-View-Intent with Benoît Quenaudon from Square</title>
-      <link>http://thecontext.github.com/website/episodes/19.2-mvi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/19.2-mvi/</guid>
-      <description>Links:
- Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&amp;rsquo;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&amp;rsquo;re doing it wrong if you have a subscribe in your presenter. Ideally, the presenter should be an ObservableTransformer.&amp;rdquo; Unidirectional User Interface Architectures  Guests  Benoît Quenaudon: Twitter, GitHub, website  Hosts  Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 20, Part 1: public final Agile</title>
-      <link>http://thecontext.github.com/website/episodes/20.1-agile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/20.1-agile/</guid>
-      <description>Links:
- Turn the Ship Around! Toyota Production System Jeff Sutherland David Anderson Kaizen  Guests  Alexey Alexeev: LinkedIn  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 20, Part 2: public final Agile</title>
-      <link>http://thecontext.github.com/website/episodes/20.2-agile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/20.2-agile/</guid>
-      <description>Links:
- Turn the Ship Around! Toyota Production System Jeff Sutherland David Anderson Kaizen  Guests  Alexey Alexeev: LinkedIn  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 21: Rx Must Die (droidcon Berlin 2018)</title>
-      <link>http://thecontext.github.com/website/episodes/21-droidcon-rx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/21-droidcon-rx/</guid>
-      <description>This particular episode is a panel discussion with a very controversial title \&amp;ldquo;Rx Must Die\&amp;ldquo;. As you might know, all hosts of The Context podcast have very warm feelings about Rx and it was not an easy job for us to comment, Hannes and Artur were strong enough but Artem had to bail out (oof). We hope you enjoy this episode and find things to think about, remember if you want to discuss them — we have discussions on GitHub (link above)!</description>
-    </item>
-    
-    <item>
-      <title>Episode 22: Women in Tech (droidcon Berlin 2018)</title>
-      <link>http://thecontext.github.com/website/episodes/22-droidcon-women/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/22-droidcon-women/</guid>
-      <description>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
-Guests  Anita Singh: Twitter Annyce Davis: Twitter Kevin McDonagh: Twitter Lara Martín: Twitter Vivien Dollinger: LinkedIn  Hosts  Daniela Gausmann: LinkedIn  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 23: Rise of the Machines (droidcon Berlin 2018)</title>
-      <link>http://thecontext.github.com/website/episodes/23-machines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/23-machines/</guid>
-      <description>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
-Guests  Dr. Roman Belter Hoi Lam: Twitter Jürgen Fey: Twitter Meghan Kane: Twitter Silvia Cambie: Twitter  Hosts  Kevin McDonagh: Twitter  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich</title>
-      <link>http://thecontext.github.com/website/episodes/24-multiplatform/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/24-multiplatform/</guid>
-      <description>Jesse and Egor shared their experience of migrating Okio to Kotlin and which strategies they have applied to make it multiplatform ready.
-Announcement: Please participate in this survey to give us feedback how we can make this podcast better.
-Links:
- Okio on Github Announcing Okio 2: Our fast + simple I/O library, Okio, has a new release that supports Kotlin JApicmp: binary compatibility reporting The Context Podcast Survey: Help us make the show better  Guests  Egor Andreevich: Twitter, GitHub, blog Jesse Wilson: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 6, Part 2: Continuous Integration (CI) &amp;amp; Continuous Delivery (CD)</title>
-      <link>http://thecontext.github.com/website/episodes/06.2-ci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/06.2-ci/</guid>
-      <description>We have covered:
- UI Tests Continuous Integration Continuous Delivery Soundcloud&amp;rsquo;s CI &amp;amp; CD Pipeline Testing in general EVERYTHING &amp;amp; LIFE  Links:
- Slides from Fernando&amp;rsquo;s talk at MobileOptimized&amp;rsquo;2016  Fernando&amp;rsquo;s Clean Architecture sample on github From Prefab House to Lego House - Blog post about depending on a shared library  Guests  Fernando Cejas: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
-    </item>
-    
-    <item>
-      <title>Episode 7: React Native with Felipe Lima from Airbnb</title>
-      <link>http://thecontext.github.com/website/episodes/07-react/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/07-react/</guid>
-      <description>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:
- Advantages and Disadvantages of React Native React Native build tools, IDE and debugging How to write your own custom component Lifecycle, state restoration and process death in React Native apps Integration and interaction with android system services Sharing code with iOS Usage for React Native in Airbnb&amp;rsquo;s android and iOS app  Links:</description>
-    </item>
-    
-    <item>
-      <title>Episode 8: Damn Functional Programming with Paco Estevez</title>
-      <link>http://thecontext.github.com/website/episodes/08-fp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/08-fp/</guid>
-      <description>In this episode we have talked with Paco Estevez about Functional Programming and how he applies Functional Programming in his android apps. We have covered:
- Concepts of Functional Programming Monads, Pure Functions, Immutability, Tuples, Union Types Pattern Matching Error Handling Functional Reactive Programming with RxJava Restoring state in Android apps  Links:
-Talks, books and websites about Functional Programming:
- Clojure for the Brave and True Learn You a Haskell for Great Good F# for fun and profit Talk by Paco about Memory Management in Fully Reactive Apps  Some of Paco&amp;rsquo;s open source libraries:</description>
-    </item>
-    
-    <item>
-      <title>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
-      <link>http://thecontext.github.com/website/episodes/09.1-kotlin-gradle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/09.1-kotlin-gradle/</guid>
-      <description>Important note for Pocket Casts app users: Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline). It seems that while downloading their android app is using a old http client which doesn&amp;rsquo;t support latest TLS cipher standards we use on server side to host our episodes.
-Nevertheless, streaming our episodes (instead of downloading) works in Pocket Casts android app.
-See this tutorial: Pocket Casts: Streaming</description>
-    </item>
-    
-    <item>
-      <title>Episode 9, Part 2: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
-      <link>http://thecontext.github.com/website/episodes/09.2-kotlin-gradle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://thecontext.github.com/website/episodes/09.2-kotlin-gradle/</guid>
-      <description>Important note for Pocket Casts app users: Thanks to the great support of Pocket Casts team we were able to fix the &amp;ldquo;download episodes issue&amp;rdquo; (see show nodes of episode 9, part 1).
-We have continued our discussion with Alexey Tsvetkov. In the second part we have talked about build systems for android development.
-We have talked about:
- Gradle Buck Bazel  Links:
- OkBuck Fragmented Podcast, Episode 68: Talking Buck with Uber engineer Gautam Korlam  Guests  Alexey Tsvetkov: Twitter  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
     
   </channel>
