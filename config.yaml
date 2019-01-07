@@ -1,4 +1,4 @@
-languageCode: "en-us"
+languageCode: "en"
 title: "The Context Podcast"
 
 baseUrl: "http://thecontext.github.com/website"
@@ -20,17 +20,17 @@ menu:
       url: "https://itunes.apple.com/us/podcast/the-context-androiddev/id1081726814"
       weight: 2
     - name: "RSS"
-      url: "/index.xml"
+      url: "DOES NOT WORK PLEASE CHANGE THE LOCATION"
       weight: 1
 
 theme: "context"
 
-googleAnalytics: "..."
+googleAnalytics: "DOES NOT WORK PLEASE CHANGE THE VALUE"
 
-disableHugoGeneratorInject: true
 enableEmoji: true
 
 disableKinds:
+  - section
   - taxonomy
   - taxonomyTerm
-  - section
+  - rss
