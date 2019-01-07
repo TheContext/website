@@ -1,7 +1,7 @@
 ---
 title: "Episode 7: React Native with Felipe Lima from Airbnb"
 description: "In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb."
-date: "2016-12-02T17:00"
+date: "2016-12-02T17:00:00"
 slug: "07-react"
 ---
 <audio controls preload="metadata">

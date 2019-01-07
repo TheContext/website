@@ -1,7 +1,7 @@
 ---
 title: "Episode 12: Instant Apps with Lukas Olsen and Christian Bahl"
 description: "Hannes chatted with his coworkes Lukas and Christian about Instant Apps."
-date: "2017-05-24T09:30"
+date: "2017-05-24T09:30:00"
 slug: "12-instant-apps"
 ---
 <audio controls preload="metadata">

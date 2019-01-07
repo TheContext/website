@@ -1,7 +1,7 @@
 ---
 title: "Episode 17: Switching Gears to C# and .NET"
 description: "Artur chatted with Dmitry Savchenko about C#, .NET and everything in between."
-date: "2018-04-01T09:30"
+date: "2018-04-01T09:30:00"
 slug: "17-dot-net"
 ---
 <audio controls preload="metadata">

@@ -1,7 +1,7 @@
 ---
 title: "Episode 13: Conductor with Eric Kuck"
 description: "In this episode we talked about Conductor with creator Eric Kuck."
-date: "2017-08-04T09:30"
+date: "2017-08-04T09:30:00"
 slug: "13-conductor"
 ---
 <audio controls preload="metadata">

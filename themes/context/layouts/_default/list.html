@@ -8,7 +8,7 @@
 
 {{ .Content }}
 
-{{ range (where .Data.Pages "Section" "!=" "") }}
+{{ range .Pages.ByDate.Reverse }}
 <h3><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
 <p>{{ .Description | markdownify }}</p>
 {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: "Episode 16: Tools"
 description: "In this episode Artem, Artur and Hannes discuss the tools they use for development."
-date: "2018-03-07T09:30"
+date: "2018-03-07T09:30:00"
 slug: "16-tools"
 ---
 <audio controls preload="metadata">
