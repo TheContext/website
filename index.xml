@@ -163,8 +163,9 @@ Tools:
       
       <guid>http://thecontext.github.com/website/episodes/15-2017/</guid>
       <description>In this episode Artur and Hannes do a retrospective on 2017. They share their personal highlights, favorite talks, disapointments, learnings and much more.
-In this episode Artem and Hannes chatted with David Karnok about present and future of RxJava. We discussed:
- RxJava 3 Preview Kaushik Gopal&amp;rsquo;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&amp;rsquo;s Reply to Kaushik Gopal&amp;rsquo;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;rdquo; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs.</description>
+Links
+Talks
+ Two Stones, One Bird: Implementation Tradeoffs by Christina Lee - KotlinConf 2017 Testing Kotlin at Scale: Spek by Artem Zinnatullin - KotlinConf 2017 The Reactive Workflow Pattern (Droidcon New York 2017) and Update (Droidcon San Francisco) by Ray Ryan The Resurgence of SQL by Jake Wharton and Alec Strong - Droidcon New York City 2017 Embracing SQL Without Abstraction by Alec Strong - Droidcon New York City 2016 OpenYOLO: Authentication made easy and secure by Iain McGinniss - Droidcon London 2017 and corresponding blog post  Libraries</description>
     </item>
     
     <item>
