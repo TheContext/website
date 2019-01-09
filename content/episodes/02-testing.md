@@ -8,6 +8,8 @@ slug: "02-testing"
   <source src="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" type="audio/mpeg">
 </audio>
 
+In this episode we have talked about testing in Android Development.
+
 In this episode we have talked about testing in Android Development. We have covered:
 
  - [Unit testing](https://en.wikipedia.org/wiki/Unit_testing)

@@ -8,6 +8,8 @@ slug: "11-rxjava-2"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3" type="audio/mpeg">
 </audio>
 
+We've talked to Artur about Juno's way to migrate their Android Riders App from RxJava 1 to RxJava 2.
+
 We have covered:
 
  - Migration strategy at Juno

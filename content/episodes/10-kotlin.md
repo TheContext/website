@@ -8,6 +8,8 @@ slug: "10-kotlin"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3" type="audio/mpeg">
 </audio>
 
+We've talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin
+
 We know about sound volume level issue [#67](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/67) and tried our best to maximize it in this episode, but Artem used his crappy headphones mic instead of professional one and we couldn't achieve what we wanted, sorry about that, we'll try our best in next episode.
 
 We've talked to Dmitry Jemerov aka @yole from Kotlin team at JetBrains about some language design decisions made in Kotlin:

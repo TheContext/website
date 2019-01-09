@@ -8,6 +8,8 @@ slug: "07-react"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3" type="audio/mpeg">
 </audio>
 
+In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb.
+
 In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:
 
  - Advantages and Disadvantages of React Native

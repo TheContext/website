@@ -8,6 +8,8 @@ slug: "13-conductor"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3" type="audio/mpeg">
 </audio>
 
+In this episode we talked about Conductor with creator Eric Kuck.
+
 **Announcement:** We have a new Co-Host for our podcast: Welcome [Artur Dryomov](https://twitter.com/arturdryomov)!
 
 We think that we need at least two hosts on each episode to produce a high-quality content.

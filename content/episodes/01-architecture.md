@@ -8,6 +8,8 @@ slug: "01-architecture"
   <source src="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" type="audio/mpeg">
 </audio>
 
+In this episode we have talked about software architecture on Android.
+
 We covered:
 
  - MVC

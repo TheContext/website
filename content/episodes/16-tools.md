@@ -8,6 +8,8 @@ slug: "16-tools"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.16.mp3" type="audio/mpeg">
 </audio>
 
+In this episode Artem, Artur and Hannes discuss the tools they use for development.
+
 Tools:
 
 - [Mainframer](https://github.com/gojuno/mainframer)

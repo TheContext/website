@@ -8,6 +8,8 @@ slug: "04-indie"
   <source src="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" type="audio/mpeg">
 </audio>
 
+In this episode we have talked about Indie Development.
+
  We have covered:
 
  - How to get started in Indie development

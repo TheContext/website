@@ -8,6 +8,8 @@ slug: "17-dot-net"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3" type="audio/mpeg">
 </audio>
 
+Artur chatted with Dmitry Savchenko about C#, .NET and everything in between.
+
 The reason is simple — we are changing our jobs as Android developers to be real enterprise professionals.
 Prepare for next episodes about macOS AppKit, Linux kernel, Go microservices and Plan 9 vs. Inferno.
 And maybe gardening at some point. Also — April Fools!

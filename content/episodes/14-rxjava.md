@@ -8,6 +8,8 @@ slug: "14-rxjava"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3" type="audio/mpeg">
 </audio>
 
+In this episode we chatted with core maintainer David Karnok about the present and the future of RxJava.
+
 In this episode Artem and Hannes chatted with David Karnok about present and future of [RxJava](https://github.com/ReactiveX/RxJava). We discussed:
 
  - [RxJava 3 Preview](https://github.com/akarnokd/RxJava3-preview)

@@ -8,6 +8,8 @@ slug: "22-droidcon-women"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.22.mp3" type="audio/mpeg">
 </audio>
 
+We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they've recorded panel discussions for us and allowed us to publish them with our commentary.
+
 Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
 
 ## Guests
