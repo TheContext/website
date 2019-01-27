@@ -6,10 +6,21 @@
     <description>Recent content on The Context Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Sep 2018 09:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 09:30:00 +0000</lastBuildDate>
     
 	<atom:link href="http://thecontext.github.com/website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 25: How It’s Made — Freeletics</title>
+      <link>http://thecontext.github.com/website/episodes/25-how-its-made-freeletics/</link>
+      <pubDate>Wed, 23 Jan 2019 09:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/25-how-its-made-freeletics/</guid>
+      <description>We are starting a new series about Android application development. Hannes and Artur are talking about how Freeletics (the company Hannes works in) does android development and product engineering.
+Links:
+ Freeletics Video: Working at Freeletics John Locke Koin RxRedux CoRedux Mosby The Test Pyramid Freeletics Engineering Blog  Hosts  Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
     
     <item>
       <title>Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich</title>
