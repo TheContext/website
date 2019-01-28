@@ -9,7 +9,7 @@
 {{ .Content }}
 
 {{ range .Pages.ByDate.Reverse }}
-<h3 class="episodelistTitle"><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
+<h3 style="padding-top: 1em;"><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
 <p>{{ .Description | markdownify }}</p>
 {{ end }}
 
