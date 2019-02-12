@@ -26,6 +26,7 @@ Links:
 * [Artur’s slides about Juno Kotlin experiences](https://speakerdeck.com/arturdryomov/kotlin-max-payne-voxxed-days-minsk-may-2018)
 * [Artur’s blog with details about IoC, Reactive approaches and more](https://arturdryomov.online/) 
 
+
 ## Hosts
 
 * Artur Dryomov: [Twitter](https://twitter.com/arturdryomov), [GitHub](https://github.com/ming13), [blog](https://arturdryomov.online)
