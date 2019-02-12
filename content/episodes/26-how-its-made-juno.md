@@ -11,6 +11,7 @@ slug: "26-how-its-made-juno"
 We continue our How It’s Made series: Hannes and Artur are talking about how Juno, the company Artur works in, does product engineering.
 
 Links:
+
 * [Multi-tiered technical support](https://en.wikipedia.org/wiki/Technical_support#Multi-tiered_technical_support)
 * [Git branching model](https://artemzin.com/blog/git-ftfy-branching-model-continuation-of-git-flow-considered-harmful/)
 * [Rolling release](https://en.wikipedia.org/wiki/Rolling_release)
