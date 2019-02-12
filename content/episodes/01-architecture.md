@@ -5,7 +5,7 @@ date: "2016-02-04T20:04:07"
 slug: "01-architecture"
 ---
 <audio controls preload="metadata">
-  <source src="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" type="audio/mpeg">
+  <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.1.mp3" type="audio/mpeg">
 </audio>
 
 In this episode we have talked about software architecture on Android.

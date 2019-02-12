@@ -1,6 +1,6 @@
 ---
 title: "Episode 25: How It’s Made — Freeletics"
-description: "We are starting a new series about Android application development. Hannes and Artur are talking about how Freeletics (the company Hannes works in) does android development and product engineering."
+description: "This episode is starting a series about Android application development. Hannes and Artur are talking about how Freeletics, the company Hannes works in, does product engineering."
 date: "2019-01-23T09:30:00"
 slug: "25-how-its-made-freeletics"
 ---
@@ -8,7 +8,7 @@ slug: "25-how-its-made-freeletics"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.25.mp3" type="audio/mpeg">
 </audio>
 
-We are starting a new series about Android application development. Hannes and Artur are talking about how Freeletics (the company Hannes works in) does android development and product engineering.
+This episode is starting a series about Android application development. Hannes and Artur are talking about how Freeletics, the company Hannes works in, does product engineering.
 
 Links:
 

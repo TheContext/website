@@ -5,7 +5,7 @@ date: "2016-02-26T06:25:07"
 slug: "02-testing"
 ---
 <audio controls preload="metadata">
-  <source src="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" type="audio/mpeg">
+  <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.2.mp3" type="audio/mpeg">
 </audio>
 
 In this episode we have talked about testing in Android Development.
