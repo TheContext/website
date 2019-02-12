@@ -6,10 +6,20 @@
     <description>Recent content on The Context Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Jan 2019 09:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 23:30:00 +0000</lastBuildDate>
     
 	<atom:link href="http://thecontext.github.com/website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 26: How It’s Made — Juno</title>
+      <link>http://thecontext.github.com/website/episodes/26-how-its-made-juno/</link>
+      <pubDate>Mon, 11 Feb 2019 23:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/26-how-its-made-juno/</guid>
+      <description>We continue our How It’s Made series: Hannes and Artur are talking about how Juno, the company Artur works in, does product engineering.
+Links: * Multi-tiered technical support * Git branching model * Rolling release * Kotlin SAM (single abstract method) issue * Domic — UI abstraction, similar to internal Juno one * Multi-tier architecture * Gradle Kotlin DSL * Mainframer * Bitrise * Elasticsearch * Grafana * Juno Careers * Artur’s slides about Juno Kotlin experiences * Artur’s blog with details about IoC, Reactive approaches and more</description>
+    </item>
     
     <item>
       <title>Episode 25: How It’s Made — Freeletics</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 23 Jan 2019 09:30:00 +0000</pubDate>
       
       <guid>http://thecontext.github.com/website/episodes/25-how-its-made-freeletics/</guid>
-      <description>We are starting a new series about Android application development. Hannes and Artur are talking about how Freeletics (the company Hannes works in) does android development and product engineering.
+      <description>This episode is starting a series about Android application development. Hannes and Artur are talking about how Freeletics, the company Hannes works in, does product engineering.
 Links:
  Freeletics Video: Working at Freeletics John Locke Koin RxRedux CoRedux Mosby The Test Pyramid Freeletics Engineering Blog  Hosts  Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
