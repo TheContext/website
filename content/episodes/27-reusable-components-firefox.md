@@ -1,6 +1,6 @@
 ---
 title: "Episode 27: Reusable Components with Sebastian Kaspari from Mozilla Firefox"
-description: "Hannes talked to Sebastian Kaspari how Firefox builds reusable components."
+description: "Hannes talked to Sebastian Kaspari how Mozilla builds reusable android components for Firefox."
 date: "2019-02-24T10:30:00"
 slug: "27-reusable-components-firefox"
 ---
@@ -8,7 +8,7 @@ slug: "27-reusable-components-firefox"
   <source src="https://artemzin.com/static/thecontext/episodes/The.Context.episode.27.mp3" type="audio/mpeg">
 </audio>
 
-Hannes talked to Sebastian Kaspari how Firefox builds reusable components.
+Hannes talked to Sebastian Kaspari how Mozilla builds reusable android components for Firefox.
 
 Links:
 
