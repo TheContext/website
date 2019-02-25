@@ -6,10 +6,21 @@
     <description>Recent content on The Context Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Feb 2019 23:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Feb 2019 10:30:00 +0000</lastBuildDate>
     
 	<atom:link href="http://thecontext.github.com/website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 27: Reusable Components with Sebastian Kaspari from Mozilla Firefox</title>
+      <link>http://thecontext.github.com/website/episodes/27-reusable-components-firefox/</link>
+      <pubDate>Sun, 24 Feb 2019 10:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/27-reusable-components-firefox/</guid>
+      <description>Hannes talked to Sebastian Kaspari how Firefox builds reusable components.
+Links:
+ Mozilla Android Components Mozilla Android Components Documentation Gradle Composite Builds GeckoView  Guests  Sebastian Kaspari: Twitter, GitHub  Hosts  Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
     
     <item>
       <title>Episode 26: How It’s Made — Juno</title>

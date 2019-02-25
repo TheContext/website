@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://thecontext.github.com/website/episodes/27-reusable-components-firefox/</loc>
+    <lastmod>2019-02-24T10:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thecontext.github.com/website/episodes/26-how-its-made-juno/</loc>
     <lastmod>2019-02-11T23:30:00+00:00</lastmod>
   </url>
@@ -169,7 +174,7 @@
   
   <url>
     <loc>http://thecontext.github.com/website/</loc>
-    <lastmod>2019-02-11T23:30:00+00:00</lastmod>
+    <lastmod>2019-02-24T10:30:00+00:00</lastmod>
   </url>
   
 </urlset>
