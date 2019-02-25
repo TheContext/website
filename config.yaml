@@ -20,12 +20,12 @@ menu:
       url: "https://itunes.apple.com/us/podcast/the-context-androiddev/id1081726814"
       weight: 2
     - name: "RSS"
-      url: "DOES NOT WORK PLEASE CHANGE THE LOCATION"
+      url: "https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss"
       weight: 1
 
 theme: "context"
 
-googleAnalytics: "DOES NOT WORK PLEASE CHANGE THE VALUE"
+googleAnalytics: "UA-126647247-1"
 
 enableEmoji: true
 
