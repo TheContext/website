@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Context Podcast</title>
@@ -6,10 +6,22 @@
     <description>Recent content on The Context Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2019 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 10:30:00 +0000</lastBuildDate>
     
 	<atom:link href="http://thecontext.github.com/website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 29: How It’s Made — Babylon Health</title>
+      <link>http://thecontext.github.com/website/episodes/29-how-its-made-babylon-health/</link>
+      <pubDate>Sat, 28 Dec 2019 10:30:00 +0000</pubDate>
+      
+      <guid>http://thecontext.github.com/website/episodes/29-how-its-made-babylon-health/</guid>
+      <description>Hannes talked to Sakis Kaliakoudas how Babylon Health build their Apps.
+Sakis shared how the Babylon Health Android app is architected by using MVI and clean architecture, how they document their code base, how the CI pipeline looks like, how feature teams are organized and much more.
+Links:
+ Orbit Android MVI to build MVI android applications. Babylon Health Engineering Blog Certificate transparency security library Markdown Lint ArchUnit Open Source Hiring Document  Guests  Sakis Kaliakoudas: Twitter, GitHub  Hosts  Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+    </item>
     
     <item>
       <title>Episode 28: Fun with Canvas with Rebecca Franks from Over</title>
@@ -18,7 +30,7 @@
       
       <guid>http://thecontext.github.com/website/episodes/28-fun-with-canvas/</guid>
       <description>Hannes talked to Rebecca Franks how the Over android app uses canvas to create an interactive editor.
-Rebecca shared some tips and tricks how to work efficiently with Canvas, Bitmaps, which architecture Rebecca&amp;rsquo;s team has chosen and how they test their app.
+Rebecca shared some tips and tricks how to work efficiently with Canvas, Bitmaps, which architecture Rebecca&#39;s team has chosen and how they test their app.
 Links:
  Android Canvas APIs with Kotlin and KTX Building Responsive / Resizable Android UIs for ChromeOS Graphical editor with masking Animations with MotionLayout inside the Over app Over Android App  Guests  Rebecca Franks: Twitter, GitHub, blog  Hosts  Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
@@ -75,7 +87,7 @@ Links:
       <pubDate>Wed, 19 Sep 2018 09:30:00 +0000</pubDate>
       
       <guid>http://thecontext.github.com/website/episodes/23-droidcon-machines/</guid>
-      <description>We&amp;rsquo;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&amp;rsquo;ve recorded panel discussions for us and allowed us to publish them with our commentary.
+      <description>We&#39;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&#39;ve recorded panel discussions for us and allowed us to publish them with our commentary.
 Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
 Guests  Dr. Roman Belter Hoi Lam: Twitter Jürgen Fey: Twitter Meghan Kane: Twitter Silvia Cambie: Twitter  Hosts  Kevin McDonagh: Twitter  Discussion Give us your opinion on the episode!</description>
     </item>
@@ -96,7 +108,7 @@ Guests  Dr. Roman Belter Hoi Lam: Twitter Jürgen Fey: Twitter Meghan Kane: Twit
       <pubDate>Fri, 17 Aug 2018 09:36:00 +0000</pubDate>
       
       <guid>http://thecontext.github.com/website/episodes/22-droidcon-women/</guid>
-      <description>We&amp;rsquo;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&amp;rsquo;ve recorded panel discussions for us and allowed us to publish them with our commentary.
+      <description>We&#39;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&#39;ve recorded panel discussions for us and allowed us to publish them with our commentary.
 Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
 Guests  Anita Singh: Twitter Annyce Davis: Twitter Kevin McDonagh: Twitter Lara Martín: Twitter Vivien Dollinger: LinkedIn  Hosts  Daniela Gausmann: LinkedIn  Discussion Give us your opinion on the episode!</description>
     </item>
@@ -107,7 +119,7 @@ Guests  Anita Singh: Twitter Annyce Davis: Twitter Kevin McDonagh: Twitter Lara 
       <pubDate>Wed, 01 Aug 2018 09:36:00 +0000</pubDate>
       
       <guid>http://thecontext.github.com/website/episodes/21-droidcon-rx/</guid>
-      <description>We&amp;rsquo;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&amp;rsquo;ve recorded panel discussions for us and allowed us to publish them with our commentary.
+      <description>We&#39;ve collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they&#39;ve recorded panel discussions for us and allowed us to publish them with our commentary.
 This particular episode is a panel discussion with a very controversial title Rx Must Die. As you might know, all hosts of The Context podcast have very warm feelings about Rx and it was not an easy job for us to comment, Hannes and Artur were strong enough but Artem had to bail out (oof).</description>
     </item>
     
@@ -141,7 +153,7 @@ Links:
       <guid>http://thecontext.github.com/website/episodes/19.2-mvi/</guid>
       <description>We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.
 Links:
- Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&amp;rsquo;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&amp;rsquo;re doing it wrong if you have a subscribe in your presenter.</description>
+ Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&#39;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&#39;re doing it wrong if you have a subscribe in your presenter.</description>
     </item>
     
     <item>
@@ -152,7 +164,7 @@ Links:
       <guid>http://thecontext.github.com/website/episodes/19.1-mvi/</guid>
       <description>We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.
 Links:
- Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&amp;rsquo;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&amp;rsquo;re doing it wrong if you have a subscribe in your presenter.</description>
+ Cycle.js Android Blueprint: ToDo App using MVI by Benoît droidcon NYC 2017 - Model-View-Intent for Android In-App Navigation with Coordinators droidcon SF 2017 - The Reactive Workflow Pattern Update Benoît&#39;s Tweet: &amp;ldquo;We see more and more &amp;ldquo;reactive&amp;rdquo; architectures on Android but I think you&#39;re doing it wrong if you have a subscribe in your presenter.</description>
     </item>
     
     <item>
@@ -163,7 +175,7 @@ Links:
       <guid>http://thecontext.github.com/website/episodes/18.2-everywhere/</guid>
       <description>In the second part of episode #18 Artur, Hannes and Artem discuss Android TV, Chromecast and Android Auto.
 Links:
- The Context Episode 5: Android TV with Joe Birch Android TV &amp;amp; Chill: A concept for what it would be like ordering fast-food on Android TV by Joe Birch. OpenAuto: Turns a Raspberry Pi into an Android Auto device. Artem&amp;rsquo;s car system running Android  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+ The Context Episode 5: Android TV with Joe Birch Android TV &amp;amp; Chill: A concept for what it would be like ordering fast-food on Android TV by Joe Birch. OpenAuto: Turns a Raspberry Pi into an Android Auto device. Artem&#39;s car system running Android  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Artur Dryomov: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
     
     <item>
@@ -221,7 +233,7 @@ Talks
       <guid>http://thecontext.github.com/website/episodes/14-rxjava/</guid>
       <description>In this episode we chatted with core maintainer David Karnok about the present and the future of RxJava.
 In this episode Artem and Hannes chatted with David Karnok about present and future of RxJava. We discussed:
- RxJava 3 Preview Kaushik Gopal&amp;rsquo;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&amp;rsquo;s Reply to Kaushik Gopal&amp;rsquo;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;rdquo; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs.</description>
+ RxJava 3 Preview Kaushik Gopal&#39;s blog post: RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes) Artem Zinnatullin&#39;s Reply to Kaushik Gopal&#39;s aricle: &amp;ldquo;RxJava 1 -&amp;gt; RxJava 2 (Understanding the Changes)&amp;quot; Kotlin Coroutines Reagent: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton RxJava vs.</description>
     </item>
     
     <item>
@@ -232,7 +244,8 @@ In this episode Artem and Hannes chatted with David Karnok about present and fut
       <guid>http://thecontext.github.com/website/episodes/13-conductor/</guid>
       <description>In this episode we talked about Conductor with creator Eric Kuck.
 Announcement: We have a new Co-Host for our podcast: Welcome Artur Dryomov!
-We think that we need at least two hosts on each episode to produce a high-quality content. Unfortunately, podcast production is time-consuming but now there are three hosts, so we can ensure that at least two of us have time to produce a new episode regularly.</description>
+We think that we need at least two hosts on each episode to produce a high-quality content. Unfortunately, podcast production is time-consuming but now there are three hosts, so we can ensure that at least two of us have time to produce a new episode regularly.
+In this episode Artur and Hannes chatted with Eric Kuck about Conductor, a framework created by Eric as alternative to Fragments.</description>
     </item>
     
     <item>
@@ -243,8 +256,8 @@ We think that we need at least two hosts on each episode to produce a high-quali
       <guid>http://thecontext.github.com/website/episodes/12-instant-apps/</guid>
       <description>Hannes chatted with his coworkes Lukas and Christian about Instant Apps.
 We apologize for the bad sound quality and low sound volume.
-Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn&amp;rsquo;t able to join us for this episode. We have covered:
- How Instant Apps work Limitations Accelerated Mobile Pages (AMP) Gradle Plugins: com.android.instantapp and com.android.feature Sharing code between regular App and Instant App User Experience with Instant Apps Instant App Early Access Preview Program Our personal Google I/O 2017 highlights:  Life is Great and Everything Will Be Ok, Kotlin is Here Architecture Components Speeding Up Your Android Gradle Builds Introduction to Android Instant Apps   Links:</description>
+Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn&#39;t able to join us for this episode. We have covered:
+ How Instant Apps work Limitations Accelerated Mobile Pages (AMP) Gradle Plugins: com.android.instantapp and com.android.feature Sharing code between regular App and Instant App User Experience with Instant Apps Instant App Early Access Preview Program Our personal Google I/O 2017 highlights:  Life is Great and Everything Will Be Ok, Kotlin is Here Architecture Components Speeding Up Your Android Gradle Builds Introduction to Android Instant Apps    Links:</description>
     </item>
     
     <item>
@@ -253,10 +266,10 @@ Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortu
       <pubDate>Mon, 15 May 2017 09:30:00 +0000</pubDate>
       
       <guid>http://thecontext.github.com/website/episodes/11-rxjava-2/</guid>
-      <description>We&amp;rsquo;ve talked to Artur about Juno&amp;rsquo;s way to migrate their Android Riders App from RxJava 1 to RxJava 2.
+      <description>We&#39;ve talked to Artur about Juno&#39;s way to migrate their Android Riders App from RxJava 1 to RxJava 2.
 We have covered:
- Migration strategy at Juno What&amp;rsquo;s different in RxJava 2.0? Null values in RxJava 2 Flowable or Observable? Other Rx Types: Single, Maybe and Completable RxJava 2 interop library RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in jvm unit tests RxJava 3  Links:
- Juno&amp;rsquo;s Android Rider Team RxJava 2 Migration Specification RxKotlin RxJava 2 interop library What&amp;rsquo;s different in RxJava 2.</description>
+ Migration strategy at Juno What&#39;s different in RxJava 2.0? Null values in RxJava 2 Flowable or Observable? Other Rx Types: Single, Maybe and Completable RxJava 2 interop library RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in jvm unit tests RxJava 3  Links:
+ Juno&#39;s Android Rider Team RxJava 2 Migration Specification RxKotlin RxJava 2 interop library What&#39;s different in RxJava 2.</description>
     </item>
     
     <item>
@@ -265,9 +278,9 @@ We have covered:
       <pubDate>Mon, 08 May 2017 15:30:00 +0000</pubDate>
       
       <guid>http://thecontext.github.com/website/episodes/10-kotlin/</guid>
-      <description>We&amp;rsquo;ve talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin
-We know about sound volume level issue #67 and tried our best to maximize it in this episode, but Artem used his crappy headphones mic instead of professional one and we couldn&amp;rsquo;t achieve what we wanted, sorry about that, we&amp;rsquo;ll try our best in next episode.
-We&amp;rsquo;ve talked to Dmitry Jemerov aka @yole from Kotlin team at JetBrains about some language design decisions made in Kotlin:</description>
+      <description>We&#39;ve talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin
+We know about sound volume level issue #67 and tried our best to maximize it in this episode, but Artem used his crappy headphones mic instead of professional one and we couldn&#39;t achieve what we wanted, sorry about that, we&#39;ll try our best in next episode.
+We&#39;ve talked to Dmitry Jemerov aka @yole from Kotlin team at JetBrains about some language design decisions made in Kotlin:</description>
     </item>
     
     <item>
@@ -288,7 +301,7 @@ We have continued our discussion with Alexey Tsvetkov. In the second part we hav
       
       <guid>http://thecontext.github.com/website/episodes/09.1-kotlin-gradle/</guid>
       <description>In this episode we have talked to Alexey Tsvetkov from Jetbrains about Kotlin Gradle plugin, compilers and build systems.
-Important note for Pocket Casts app users: Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline). It seems that while downloading their android app is using a old http client which doesn&amp;rsquo;t support latest TLS cipher standards we use on server side to host our episodes.</description>
+Important note for Pocket Casts app users: Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline). It seems that while downloading their android app is using a old http client which doesn&#39;t support latest TLS cipher standards we use on server side to host our episodes.</description>
     </item>
     
     <item>
@@ -309,7 +322,8 @@ In this episode we have talked with Paco Estevez about Functional Programming an
       
       <guid>http://thecontext.github.com/website/episodes/07-react/</guid>
       <description>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb.
-In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:</description>
+In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:
+ Advantages and Disadvantages of React Native React Native build tools, IDE and debugging How to write your own custom component Lifecycle, state restoration and process death in React Native apps Integration and interaction with android system services Sharing code with iOS Usage for React Native in Airbnb&#39;s android and iOS app  Links:</description>
     </item>
     
     <item>
@@ -320,8 +334,8 @@ In this episode we have talked with Felipe Lima about React Native, a cross plat
       <guid>http://thecontext.github.com/website/episodes/06.2-ci/</guid>
       <description>In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.
 We have covered:
- UI Tests Continuous Integration Continuous Delivery Soundcloud&amp;rsquo;s CI &amp;amp; CD Pipeline Testing in general EVERYTHING &amp;amp; LIFE  Links:
- Slides from Fernando&amp;rsquo;s talk at MobileOptimized&amp;rsquo;2016  Fernando&amp;rsquo;s Clean Architecture sample on github From Prefab House to Lego House - Blog post about depending on a shared library  Guests  Fernando Cejas: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+ UI Tests Continuous Integration Continuous Delivery Soundcloud&#39;s CI &amp;amp; CD Pipeline Testing in general EVERYTHING &amp;amp; LIFE  Links:
+ Slides from Fernando&#39;s talk at MobileOptimized&#39;2016  Fernando&#39;s Clean Architecture sample on github From Prefab House to Lego House - Blog post about depending on a shared library  Guests  Fernando Cejas: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
     
     <item>
@@ -332,8 +346,8 @@ We have covered:
       <guid>http://thecontext.github.com/website/episodes/06.1-ci/</guid>
       <description>In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.
 We have covered:
- Continuous Integration Continuous Delivery Pair Programming Release Train Soundcloud&amp;rsquo;s CI &amp;amp; CD Pipeline Testing  Links:
- Slides from Fernando&amp;rsquo;s talk at MobileOptimized&amp;rsquo;2016  Fernando&amp;rsquo;s Clean Architecture sample on github  Guests  Fernando Cejas: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+ Continuous Integration Continuous Delivery Pair Programming Release Train Soundcloud&#39;s CI &amp;amp; CD Pipeline Testing  Links:
+ Slides from Fernando&#39;s talk at MobileOptimized&#39;2016  Fernando&#39;s Clean Architecture sample on github  Guests  Fernando Cejas: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog Hannes Dorfmann: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
     
     <item>
@@ -344,7 +358,7 @@ We have covered:
       <guid>http://thecontext.github.com/website/episodes/05-tv/</guid>
       <description>In episode 5 we talked to Joe Birch about Android TV.
 We have covered:
- What is Android TV Leanback Library MVP Pattern to share code between Phone and Android TV App Android TV Recommendation System What&amp;rsquo;s new in Android Nougat for Android TV  Links:
+ What is Android TV Leanback Library MVP Pattern to share code between Phone and Android TV App Android TV Recommendation System What&#39;s new in Android Nougat for Android TV  Links:
  Bourbon: Dribbble, Android, MVP and a Common-Code Module Vineyard: Creating an Android TV Vine App Android TV &amp;amp; Chill: A concept for what it would be like ordering fast-food on Android TV Code !</description>
     </item>
     
@@ -356,7 +370,8 @@ We have covered:
       <guid>http://thecontext.github.com/website/episodes/04-indie/</guid>
       <description>In this episode we have talked about Indie Development.
 We have covered:
- How to get started in Indie development Project management as single developer Testing and Continuous Integration How does an Indie developer decides which libraries or technologies to use? Designing without being a designer Play Store, in app purchases and subscriptions  Apps published by Chris Lacy on Google Play Store: - Action Launcher 3 - Action Launcher 2 - Tweet Lanes</description>
+ How to get started in Indie development Project management as single developer Testing and Continuous Integration How does an Indie developer decides which libraries or technologies to use? Designing without being a designer Play Store, in app purchases and subscriptions  Apps published by Chris Lacy on Google Play Store:
+ Action Launcher 3 Action Launcher 2 Tweet Lanes  Links:</description>
     </item>
     
     <item>
@@ -404,7 +419,7 @@ In this episode we have talked about testing in Android Development. We have cov
 We covered:
  MVC MVVM MVVMC MVP Flux Cycle.js (a.k.a. Model-View-Intent)  Open Source projects from Hannes:
  Mosby SQLBrite-DAO FragmentArgs ParcelablePlease  Links:
- AutoValue split into 2 jars issue Dagger 2 document about testing Clean MVVM example Gradle&amp;rsquo;s incremental build issue with annotation processing  Guests  Hannes Dorfmann: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
+ AutoValue split into 2 jars issue Dagger 2 document about testing Clean MVVM example Gradle&#39;s incremental build issue with annotation processing  Guests  Hannes Dorfmann: Twitter, GitHub, blog  Hosts  Artem Zinnatullin: Twitter, GitHub, blog  Discussion Give us your opinion on the episode!</description>
     </item>
     
   </channel>
