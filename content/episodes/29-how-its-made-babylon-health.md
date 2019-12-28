@@ -10,7 +10,7 @@ slug: "29-how-its-made-babylon-health"
 
 Hannes talked to Sakis Kaliakoudas how Babylon Health build their Apps.
 
-Sakis shared how the Babylon Health Android app is architected by using MVI and clean architecture, how they document their code base, how the CI pipeline looks like, how feature teams are organized and much more. 
+Sakis shared how the Babylon Health Android app is architected by using MVI and clean architecture, how they document their code base, how the CI pipeline looks like, how feature teams are organized and much more.
 
 Links:
 
@@ -20,7 +20,6 @@ Links:
 * [Markdown Lint](https://github.com/appmattus/markdown-lint)
 * [ArchUnit](https://github.com/TNG/ArchUnit)
 * [Open Source Hiring Document](https://github.com/babylonhealth/android-playbook)
-
 
 ## Guests
 
