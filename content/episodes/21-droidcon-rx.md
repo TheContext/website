@@ -17,7 +17,7 @@ Thanks droidcon Berlin and the local Berlin Android community for collaborating 
 
 ## Guests
 
-* Ash Davis
+* Ash Davies: [Twitter](https://twitter.com/askashdavies)
 * Hasan Hosgel: [Twitter](https://twitter.com/alosdev)
 * Ivan Morgillo: [Twitter](https://twitter.com/hamen), [GitHub](https://github.com/hamen)
 * Joannes Orgis
