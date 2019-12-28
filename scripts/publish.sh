@@ -21,7 +21,7 @@ echo ":: Removing [${HUGO_DIRECTORY}] working tree contents."
 rm -rf "${HUGO_DIRECTORY}"/*
 
 echo ":: Generating..."
-hugo
+bash scripts/assemble.sh
 
 echo ":: Committing generated contents."
 cd "${HUGO_DIRECTORY}"
