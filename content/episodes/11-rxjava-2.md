@@ -38,7 +38,7 @@ Links:
 
 ## Guests
 
-* Artur Dryomov: [Twitter](https://twitter.com/arturdryomov), [GitHub](https://github.com/ming13), [blog](https://arturdryomov.online)
+* Artur Dryomov: [Twitter](https://twitter.com/arturdryomov), [GitHub](https://github.com/arturdryomov), [blog](https://arturdryomov.online)
 
 ## Hosts
 
